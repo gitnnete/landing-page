@@ -13,8 +13,8 @@ const Hero = () => {
           <p className="fw-bold fs-5 mb-0 me-2">Fast, Flexible financing for</p>
           <TypeAnimation
             className="fw-bold fs-5 mb-0 text-success"
-            sequence={["BTB", 1000, "BTC", 1000, "SASS", 1000]}
-            speed={50} // Custom speed
+            sequence={["Back to Back", 1000, "Before Custom", 1000, "Services", 1000]}
+            speed={30} // Custom speed
             wrapper="span"
             repeat={Infinity} // Repeat forever
           />
