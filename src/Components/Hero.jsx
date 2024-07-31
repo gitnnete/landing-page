@@ -9,7 +9,7 @@ const Hero = () => {
           Growing With Data Analytics
         </h5>
         <p className="fw-bold fs-2">Grow With Data</p>
-        <div className="d-flex justify-content-center align-items-center">
+        <div className="align-items-center">
           <p className="fw-bold fs-5 mb-0 me-2">Fast, Flexible financing for</p>
           <TypeAnimation
             className="fw-bold fs-5 mb-0 text-success"
